@@ -1,0 +1,18 @@
+
+                                  Imam Binary
+
+                                    (imamB)
+
+                                  Version 1.0
+                                
+--------------------------------------------------------------------------------------
+
+This is the Imam Binary, functions for getting binary representation of numbers in C string format.
+
+To integrate functions of imamB to programs just copy imamB.c and imamB.h files to programs source files directories. Please have a look at the example program Binary.c for applications and usages.
+
+This library is distributed under zlib license. Please read License for more information
+
+Enjoy!
+
+    Md Imam Hossain (emamhd@gmail.com)

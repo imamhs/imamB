@@ -1,0 +1,8 @@
+imamB
+
+version 1.0     11 May 2017
+    
+    - initial release
+    - functions for converting unsigned integer to binary(string) and vice versa
+    
+
